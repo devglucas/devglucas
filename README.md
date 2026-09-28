@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lucas%20Goncalves&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20%40%20PUC%20Minas&descAlignY=60&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lucas%20Goncalves&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineering%20%E2%80%A2%20Software%20Engineering%20%40%20PUC%20Minas&descAlignY=60&descSize=16&animation=fadeIn" />
 
 </div>
 
@@ -8,10 +8,12 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Lucas Gonçalves dos Santos**, a **Software Engineering** student at **PUC Minas** and a passionate **Full Stack Developer** who loves building robust solutions and modern interfaces.
+Hi! I'm **Lucas Gonçalves dos Santos**, a **Software Engineering** student at **PUC Minas** with a growing focus on **Data Engineering**. I enjoy turning raw data into reliable, well-structured information, backed by solid software engineering foundations.
 
 - 🎓 Studying **Software Engineering** at PUC Minas
-- 💻 Working with both **Front-End** and **Back-End** development
+- 📊 Building my career in **Data Engineering**: data analysis, automation, and data-driven solutions
+- 🐍 Using **Python**, **SQL**, and scripting to process, transform, and analyze data
+- 🧱 Solid **Back-End** background, with **Front-End** experience as a complement
 - 🌱 Always learning and growing with new technologies
 - 🚀 Focused on writing clean, scalable, and high-quality code
 
@@ -19,26 +21,27 @@ Hi! I'm **Lucas Gonçalves dos Santos**, a **Software Engineering** student at *
 
 ### 🛠️ Tech Stack
 
-#### 🔙 Back-End
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+#### 📊 Data & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### 🔙 Back-End
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 #### 🎨 Front-End
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
